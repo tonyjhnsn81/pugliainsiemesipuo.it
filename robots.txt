@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pugliainsiemesipuo.it/sitemap.xml
